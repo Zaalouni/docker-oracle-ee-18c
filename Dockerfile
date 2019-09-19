@@ -9,5 +9,5 @@ ADD install/netca.rsp netca.rsp
 ADD install/dbca_18c.rsp dbca_18c.rsp
 ADD install/gosu gosu
 ADD install/post_install.sh post_install.sh
-
+ADD FU
 RUN /oracle_18c_install_docker.sh
